@@ -16,4 +16,4 @@ ___
 
 
 ### 플레이 영상
-[![](https://i9.ytimg.com/vi/v2gIXpxz4H4/mqdefault.jpg)](https://www.youtube.com/watch?v=v2gIXpxz4H4 "")
+[![](https://img.youtube.com/vi/v2gIXpxz4H4/mqdefault.jpg)](https://www.youtube.com/watch?v=v2gIXpxz4H4 "")
