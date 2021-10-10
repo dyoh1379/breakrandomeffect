@@ -13,3 +13,7 @@ ___
 #### 명령어
 + `/bre <type>`
 * 본 명령어는 OP권한이 있는 유저만 사용 가능합니다.
+
+
+### 플레이 영상
+[![](https://img.youtube.com/vi/v2gIXpxz4H4/0.jpg)](https://www.youtube.com/watch?v=v2gIXpxz4H4 "")
